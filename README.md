@@ -12,6 +12,8 @@ This is an early stage repository and STL's have not been changed. CAD files are
 
 - Electronics and PSU are mounted in the front with a printable bracket to secure the PSU and electronics (NOT UPDATED IN CAD YET)
 
+- Electronics mounting points are for the Mellow Gemini V3, but the hex mounts can be easily modified for whatever klipper host and main board you have.
+
 - Key back mount modified to work with the for the N3s PSU mount holes.
 
 - A regular 2020 extrusion for the gantry needs to be added
